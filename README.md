@@ -14,7 +14,7 @@ Create Firebase Dynamic Links from Php and Laravel
 ### <a name="php-instal"></a> Php Install
 
 ```php
-composer require "yedincisenol/dynamic-links"
+composer require "yedincisenol/dynamic-links"  --ignore-platform-reqs
 ```
 
 ### <a name="php-config"></a> Php Config
